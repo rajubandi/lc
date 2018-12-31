@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Lotus Chocolates
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.charvikent.LotusChocolates
+Build-Jdk: 1.8.0_73
+Implementation-URL: http://projects.spring.io/spring-boot/LotusChocola
+ tes/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.charvikent.abheeSmartHomeSystems
+

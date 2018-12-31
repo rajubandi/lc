@@ -1,0 +1,11 @@
+<html>  
+  <body>  
+  <h3>Hello, </h3> 
+  
+  <div>Your Request Submitted Successfully </div>
+  <body>We Received The Request and will send you the Quotation soon.</body>
+  <div>Thanks&Regards</div>
+  <!-- <div><img src=${id101}></div>
+  
+  <div><img src="id101"></div> -->
+  </html> 
